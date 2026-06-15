@@ -8,11 +8,19 @@
 
 ## 🚀 About Me
 
-- Bosch Computer Vision & Automation Intern
-- Research Intern at NLO+, MUJ (DRDO-funded facility)
-- IEEE Conference Presenter (NIT Hamirpur)
-- Selected for Smart India Hackathon (SIH) Internal Round
-- Recipient of 100% Tuition Fee Scholarship
+## 🚀 About Me
+
+Hi, I'm Naman Bhasin, a B.Tech student in Electrical and Computer Engineering at Manipal University Jaipur with a strong interest in Artificial Intelligence, Computer Vision, and intelligent systems.
+
+My journey into AI started with curiosity about how machines perceive and interpret the world around them. Since then, I have explored projects ranging from real-time helmet detection using YOLOv8 to an end-to-end self-driving car simulator capable of predicting steering angles through deep learning. I enjoy building systems that combine software, data, and engineering principles to solve practical problems.
+
+Beyond academics, I have had the opportunity to work as a Computer Vision & Automation Intern at Bosch and as a Research Intern at NLO+, a DRDO-funded research facility. These experiences exposed me to real-world engineering challenges and strengthened my interest in developing reliable, scalable, and impactful technology solutions.
+
+I am particularly drawn to projects that sit at the intersection of AI, automation, and intelligent decision-making. Whether it is training deep learning models, working with computer vision pipelines, integrating sensors and embedded systems, or experimenting with autonomous systems, I enjoy understanding how things work beneath the surface and continuously improving them.
+
+Outside of technical work, I enjoy exploring emerging technologies, participating in hackathons and innovation challenges, contributing to research-driven projects, and learning new tools that expand my problem-solving abilities. I believe the best way to learn is by building, experimenting, and iterating on real-world projects.
+
+Currently, I am exploring opportunities in Artificial Intelligence, Machine Learning, Computer Vision, Autonomous Systems, and Software Engineering while continuing to strengthen my technical foundations and develop impactful projects.
 
 ---
 
