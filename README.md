@@ -8,8 +8,6 @@
 
 ## 🚀 About Me
 
-## 🚀 About Me
-
 Hi, I'm Naman Bhasin, a B.Tech student in Electrical and Computer Engineering at Manipal University Jaipur with a strong interest in Artificial Intelligence, Computer Vision, and intelligent systems.
 
 My journey into AI started with curiosity about how machines perceive and interpret the world around them. Since then, I have explored projects ranging from real-time helmet detection using YOLOv8 to an end-to-end self-driving car simulator capable of predicting steering angles through deep learning. I enjoy building systems that combine software, data, and engineering principles to solve practical problems.
